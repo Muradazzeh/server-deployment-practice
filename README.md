@@ -45,5 +45,14 @@ we started from Git hub After creating Repo => go to Action => search for node j
 * Finally we check the deployed virsion on heroku , both branches main and dev 
 ![link](./servImage/Screenshot%20(124).png)
 
+* this is the link for Heroku deployed server on dev branch
+[link](https://murad-server-deploy-dev.herokuapp.com/)
+* this is the pull request from git hub 
+[link](https://github.com/Muradazzeh/server-deployment-practice/pull/1)
+* this is the link for deployed main branch 
+[link](https://murad-server-deploy-prod.herokuapp.com/)
+
+> note that : I got a massage from heroku that automatic deployment reached limit 
+
 
 
