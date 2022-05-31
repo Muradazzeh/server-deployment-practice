@@ -1,5 +1,19 @@
 # server-deployment-practice
 
+**This is the all links for my work**
+
+* this is the link for Heroku deployed server on dev branch
+[link for dev deploy](https://murad-server-deploy-dev.herokuapp.com/)
+* this is the pull request from git hub 
+[link pull request](https://github.com/Muradazzeh/server-deployment-practice/pull/1)
+* this is the link for deployed main branch 
+[link for maindeploy](https://murad-server-deploy-prod.herokuapp.com/)
+* this is the link for git gub action 
+[link for action](https://github.com/Muradazzeh/server-deployment-practice/actions)
+* this the link for main repo 
+[link for main repo](https://github.com/Muradazzeh/server-deployment-practice)
+******************************
+
 * We started the Advance level with building server useing node js , and Express frame work 
 
 > note the different between librrary and frame work :
@@ -45,12 +59,10 @@ we started from Git hub After creating Repo => go to Action => search for node j
 * Finally we check the deployed virsion on heroku , both branches main and dev 
 ![link](./servImage/Screenshot%20(124).png)
 
-* this is the link for Heroku deployed server on dev branch
-[link](https://murad-server-deploy-dev.herokuapp.com/)
-* this is the pull request from git hub 
-[link](https://github.com/Muradazzeh/server-deployment-practice/pull/1)
-* this is the link for deployed main branch 
-[link](https://murad-server-deploy-prod.herokuapp.com/)
+* this is the git hub action 
+![link](./servImage/Screenshot%20(136).png)
+
+
 
 > note that : I got a massage from heroku that automatic deployment reached limit 
 
